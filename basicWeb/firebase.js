@@ -8,14 +8,14 @@ let long = 0;
 
 // Firebase 접근 정보
 var config = {
-  apiKey: "AIzaSyA4JNrHtS9pc6QaW8dtwATWhUhs0Ni8OBI",
-  authDomain: "smartfarm-f867f.firebaseapp.com",
-  databaseURL: "https://smartfarm-f867f-default-rtdb.firebaseio.com",
-  projectId: "smartfarm-f867f",
-  storageBucket: "smartfarm-f867f.appspot.com",
-  messagingSenderId: "605663694333",
-  appId: "1:605663694333:web:ae528fa94efc794d285d94",
-  measurementId: "G-9C54BH4QG4"
+  apiKey: "AIzaSyCflidob3pg3RtBMrIzMb20cszOG-5f94U",
+  authDomain: "jaja-cfebe.firebaseapp.com",
+  databaseURL: "https://jaja-cfebe-default-rtdb.firebaseio.com",
+  projectId: "jaja-cfebe",
+  storageBucket: "jaja-cfebe.appspot.com",
+  messagingSenderId: "1001591507152",
+  appId: "1:1001591507152:web:585c80baff7d16e7cc76d5",
+  measurementId: "G-M0F57PFVWP"
 };
 
 firebase.initializeApp(config);
